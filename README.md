@@ -1,6 +1,6 @@
 ![MasterHead](https://img.freepik.com/free-vector/team-mobile-web-app-development_107791-12795.jpg?w=1380&t=st=1693514029~exp=1693514629~hmac=89b35c9e3f13b7a19904f82c6e62e07f008e6b86535cf850ce839270559f7ba8)
 <h1 align="center">Hi 👋, I'm Yusuf</h1>
-<h3 align="center">A passionate Front - End Developer from Turkey</h3>
+<h3 align="center">A passionate Front End Developer from Türkiye</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clotho-ex&label=Profile%20views&color=0e75b6&style=flat" alt="clotho-ex" /> </p>
 
