@@ -4,9 +4,9 @@
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clotho-ex&label=Profile%20views&color=0e75b6&style=flat" alt="clotho-ex" /> </p>
 
-- 🔭 I’m currently working on **Making some Projects**
+- 🔭 I’m currently working on **Making Projects**
 
-- 🌱 I’m currently learning **React, Next.js**
+- 🌱 I’m currently learning **How to Learn**
 
 - 📫 How to reach me: **yusufcanvar90@gmail.com**
 
