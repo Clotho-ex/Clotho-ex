@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Making Projects**
 
-- 🌱 I’m currently learning **How to Learn**
+- 🌱 I’m currently learning **TypeScript**
 
 - 📫 How to reach me: **yusufcanvar90@gmail.com**
 
