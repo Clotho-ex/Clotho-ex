@@ -1,16 +1,14 @@
 ![MasterHead](https://camo.githubusercontent.com/aee1c175623a193bc79ed00ad0b52fc192741a6f1383a01a621ffb1360e8c1fc/68747470733a2f2f696d672e6672656570696b2e636f6d2f667265652d766563746f722f7465616d2d6d6f62696c652d7765622d6170702d646576656c6f706d656e745f3130373739312d31323739352e6a70673f773d3133383026743d73743d313639333531343032397e6578703d313639333531343632397e686d61633d38396233356339653366313362376131393930346638326336653632653037663030386536623836353335636638353063653833393237303535396637626138)
 <h1 align="center">Hi 👋, I'm Yusuf</h1>
-<h3 align="center">A Front End Engineer who wanted to become an Astrophysicist or a Pilot when he was a kid</h3>
+<h3 align="center">Front End Dev turned IOS Dev, I like to workout and play video games.</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clotho-ex&label=Profile%20views&color=0e75b6&style=flat" alt="clotho-ex" /> </p>
 
-- 🔭 I’m currently working on **Making Projects**
+- 🔭 I’m currently working on **Building my first IOS App**
 
-- 🌱 I’m currently learning **ReactNative**
+- 🌱 I’m currently learning **Swift**
 
 - 📫 How to reach me: **yusufcanvar90@gmail.com**
-
-- ⚡ Fun fact, **I love Astrophysics**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
